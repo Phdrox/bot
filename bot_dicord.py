@@ -13,4 +13,3 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTIxMzY1MjMwMjY2NjQwMzg1MA.GsTH7V.hlKwDTNsyhAmOfqLXfhZa8zpI0xpCiLSjCRIPs')
